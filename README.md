@@ -10,3 +10,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=blue&fontColor=yellow"/>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umdoong)](https://github.com/Umdoong/github-readme-stats)

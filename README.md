@@ -9,7 +9,8 @@ GitHub Today / Total
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=blue&fontColor=yellow"/>
+Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br>
 
